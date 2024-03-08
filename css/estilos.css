@@ -1,0 +1,46 @@
+.principal
+{
+    background-color: violet;
+    display: flex;
+    flex-direction: row;
+    flex-wrap:wrap;
+}
+.caja{
+    background-color: blanchedalmond;
+    width: 500px;
+    height: 700px;
+    margin: 5px;
+    
+}
+
+.caja1{
+    background-color: blanchedalmond;
+    width: 500px;
+    height: 235px;
+    display: flex;
+    flex-direction: row;
+}
+.caja2{
+    background-color: blanchedalmond;
+    width: 500px;
+    height: 220px;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.cajashorizontales
+{
+    background-color: rgb(54, 12, 32);
+    width: 160px;
+    height: 210px;
+    margin: 5px;
+}
+.cajalarga{
+    background-color:  rgb(54, 12, 32);
+    width: 490px;
+    height: 70px;
+    margin: 5px;
+    
+
+}
